@@ -6,7 +6,7 @@ body{
 	background-color:#26C4EC;
 	background-image:url("Images/fond.png");
 	background-repeat: no-repeat;
-	background-size: 2000px;
+	background-size: 100%;
 }
 
 nav li{
