@@ -6,13 +6,13 @@ body{
 	background-color:#26C4EC;
 	background-image:url("Images/fond.png");
 	background-repeat: no-repeat;
-	background-size: 100%;
+	background-size: 300%;
 }
 
 nav li{
 	display:inline-block;
-	width: 350px;
-	height:40px;
+	width: 23%;
+	height:6%;
 	background-color:#8A4B08 ;
 	line-height: 40px;
 }
