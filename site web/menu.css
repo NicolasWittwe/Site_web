@@ -1,0 +1,57 @@
+nav ul{
+	font-size: 30px;	
+}
+
+body{
+	background-color:#26C4EC;
+	background-image:url("Images/fond.png");
+	background-repeat: no-repeat;
+	background-size: 2000px;
+}
+
+nav li{
+	display:inline-block;
+	width: 350px;
+	height:40px;
+	background-color:#8A4B08 ;
+	line-height: 40px;
+}
+
+nav li a{
+	display: block;
+	text-decoration: none;
+	text-align: center;
+	color: white;
+	font-family: Brush Script MT, Brush Script Std, cursive;
+	font-size:40px
+}
+
+nav li :hover{
+	background-color: #B46B30;
+}
+
+p{
+	font-size: 30px;
+	font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+ul{
+	font-size : 20px;
+	list-style-type: square;
+}
+
+#p1{
+	text-align: center;
+}
+
+#img1{
+	width: 600px;
+	height: 600px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#temporaire{
+	text-align: center;
+}
