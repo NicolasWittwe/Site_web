@@ -5,7 +5,7 @@ nav ul{
 body{
 	background-color:#26C4EC;
 	background-image:url("Images/fond.png");
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 	background-size: 300%;
 }
 
@@ -38,6 +38,7 @@ p{
 ul{
 	font-size : 20px;
 	list-style-type: square;
+	
 }
 
 #p1{
