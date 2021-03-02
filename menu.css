@@ -32,6 +32,10 @@ nav li :hover{
 
 p{
 	font-size: 30px;
+}
+
+#body_index{
+	font-size: 30px;
 	font-family: Brush Script MT, Brush Script Std, cursive;
 }
 
@@ -46,8 +50,8 @@ ul{
 }
 
 #img1{
-	width: 600px;
-	height: 600px;
+	width: 500px;
+	height: 400px;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
