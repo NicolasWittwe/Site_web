@@ -12,9 +12,9 @@ body{
 nav li{
 	display:inline-block;
 	width: 24%;
-	height:5%;
+	height:8%;
 	background-color:#8A4B08 ;
-	line-height: 40px;
+	line-height: 200%;
 }
 
 nav li a{
@@ -23,7 +23,7 @@ nav li a{
 	text-align: center;
 	color: white;
 	font-family: Brush Script MT, Brush Script Std, cursive;
-	font-size:40px
+	font-size:45px
 }
 
 nav li :hover{
@@ -35,17 +35,18 @@ p{
 }
 
 #body_index{
-	font-size: 30px;
+	text-align: center;
 	font-family: Brush Script MT, Brush Script Std, cursive;
 }
 
 ul{
 	font-size : 20px;
-	list-style-type: square;
+	list-style-type: none;
 	
 }
 
 #p1{
+	font-size: 40px;
 	text-align: center;
 }
 
