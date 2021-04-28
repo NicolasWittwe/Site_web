@@ -40,7 +40,7 @@ p{
 }
 
 ul{
-	font-size : 20px;
+	font-size : 30px;
 	list-style-type: none;
 	
 }
@@ -60,4 +60,17 @@ ul{
 
 #temporaire{
 	text-align: center;
+}
+
+#equipe{
+	text-align: center;
+	font-size: 25px;
+}
+
+#bibliographie{
+	list-style-type: square;
+}
+
+#environnements{
+	list-style-type: circle;
 }
