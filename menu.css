@@ -31,7 +31,11 @@ nav li :hover{
 }
 
 p{
-	font-size: 30px;
+	font-size: 40px;
+}
+
+h2{
+	text-align : center;
 }
 
 #body_index{
@@ -58,19 +62,33 @@ ul{
 	margin-right: auto;
 }
 
-#temporaire{
-	text-align: center;
+#gameplay{
+	font-size = 40px;
 }
 
 #equipe{
-	text-align: center;
-	font-size: 25px;
+	font-size: 30px;
+	text-align : center;
 }
 
 #bibliographie{
-	list-style-type: square;
+	text-align: center;
+	list-style-type: none;
 }
 
 #environnements{
-	list-style-type: circle;
+	list-style-type: none;
 }
+
+#installation{
+	list-style-type: decimal;
+}
+
+#developpement{
+	font-size : 30px;
+}
+
+#telechargement{
+	font-size : 30px;
+}
+
