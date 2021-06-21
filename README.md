@@ -1,3 +1,3 @@
 # Site_web
 
-Site web realisé pour un projet d'étude -> jeux video 
+Site web realisé pour un projet d'étude -> jeu video 
